@@ -1,5 +1,5 @@
 backend:
-  name: romain
+  name: github
   repo: ROSORRNT/gatsby-netlify-cms
 
 media_folder: static/assets
