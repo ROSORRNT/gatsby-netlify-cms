@@ -1,5 +1,6 @@
 backend:
-  name: ROSORRNT/gatsby-netlify-cms
+  name: romain
+  repo: ROSORRNT/gatsby-netlify-cms
 
 media_folder: static/assets
 public_folder: /assets
