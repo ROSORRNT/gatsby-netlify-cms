@@ -1,5 +1,5 @@
 backend:
-  name: test-repo
+  name: ROSORRNT/gatsby-netlify-cms
 
 media_folder: static/assets
 public_folder: /assets
